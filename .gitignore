@@ -1,0 +1,7 @@
+#屏蔽的文件
+think/*
+.*
+!.gitignore
+
+
+
