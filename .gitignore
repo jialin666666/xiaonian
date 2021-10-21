@@ -1,6 +1,11 @@
 #屏蔽的文件
 think/*
 .*
+vendor
+config/databases
+
+
+
 !.gitignore
 
 
